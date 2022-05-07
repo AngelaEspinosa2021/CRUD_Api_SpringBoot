@@ -1,10 +1,10 @@
-package com.sofka.CRUD;
+package com.Sofka.CRUD;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class CrudSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {

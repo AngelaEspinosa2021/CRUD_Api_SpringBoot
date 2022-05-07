@@ -1,13 +1,13 @@
-package com.sofka.CRUD;
+package com.Sofka.CRUD;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class CrudSpringBootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(CrudSpringBootApplication.class, args);
 	}
 
 }
